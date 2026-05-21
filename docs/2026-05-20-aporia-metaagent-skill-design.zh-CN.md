@@ -1,4 +1,4 @@
-# Aporia Metaagent Skill 设计文档
+# Aporia MetaAgent Skill 设计文档
 
 ## 1. 背景
 

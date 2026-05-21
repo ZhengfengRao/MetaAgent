@@ -1,4 +1,4 @@
-# Aporia Metaagent 设计文档
+# Aporia MetaAgent 设计文档
 
 ## 1. 名称
 

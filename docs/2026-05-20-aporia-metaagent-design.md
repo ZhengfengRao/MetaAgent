@@ -1,4 +1,4 @@
-# Aporia Metaagent Design
+# Aporia MetaAgent Design
 
 ## 1. Name
 

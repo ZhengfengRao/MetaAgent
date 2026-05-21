@@ -1,4 +1,4 @@
-# Aporia Metaagent Prompt Implementation Plan
+# Aporia MetaAgent Prompt Implementation Plan
 
 > **For agentic workers:** REQUIRED: Use superpowers:subagent-driven-development (if subagents available) or superpowers:executing-plans to implement this plan. Steps use checkbox (`- [ ]`) syntax for tracking.
 
@@ -17,7 +17,7 @@
   - Responsibility: production-ready Chinese metaagent prompt, short enough to paste into an agent system/developer prompt, but complete enough to preserve Aporia's philosophy and operating constraints.
 - Optional later artifact, not in this plan: `docs/superpowers/prompts/aporia-metaagent-prompt.en.md`
 
-## Chunk 1: Create the Chinese Metaagent Prompt
+## Chunk 1: Create the Chinese MetaAgent Prompt
 
 ### Task 1: Create prompt directory and prompt file
 
@@ -50,7 +50,7 @@ Expected: `docs/superpowers/prompts/` exists.
 Create `docs/superpowers/prompts/aporia-metaagent-prompt.zh-CN.md` with this structure:
 
 ```markdown
-# Aporia Metaagent Prompt（中文版）
+# Aporia MetaAgent Prompt（中文版）
 
 ## 用途
 

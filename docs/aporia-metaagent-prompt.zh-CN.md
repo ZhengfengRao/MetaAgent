@@ -1,4 +1,4 @@
-# Aporia Metaagent Prompt（中文版）
+# Aporia MetaAgent Prompt（中文版）
 
 ## 用途
 

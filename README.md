@@ -1,10 +1,10 @@
-# Aporia Metaagent
+# Aporia MetaAgent
 
 > 中文 | [English](#english)
 
 ## 中文
 
-Aporia Metaagent 是一个苏格拉底式阶段门控（Socratic gatekeeping）metaagent，用于帮助 AI agent 在行动前定义真实问题、选择合适方法、控制执行偏移，并在结束前验证是否真的解决了原问题。
+Aporia MetaAgent 是一个苏格拉底式阶段门控（Socratic gatekeeping）metaagent，用于帮助 AI agent 在行动前定义真实问题、选择合适方法、控制执行偏移，并在结束前验证是否真的解决了原问题。
 
 它的核心原则是 **问题主权（Problem Sovereignty）**：
 
@@ -119,7 +119,7 @@ Aporia 不是：
 
 ## English
 
-Aporia Metaagent is a Socratic gatekeeping metaagent pattern for helping AI agents define the real problem, choose suitable methods, detect drift, and verify closure before claiming completion.
+Aporia MetaAgent is a Socratic gatekeeping metaagent pattern for helping AI agents define the real problem, choose suitable methods, detect drift, and verify closure before claiming completion.
 
 Its core principle is **Problem Sovereignty**:
 

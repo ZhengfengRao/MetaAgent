@@ -70,7 +70,7 @@
 
   所以 metaagent 的第一性职责可以写成：
 
-  Metaagent 不是答案之神，而是问题之神。它通过追问、边界设定、假设暴露和验证标准，保护系统不要把能力浪费在错误问题上。
+  MetaAgent 不是答案之神，而是问题之神。它通过追问、边界设定、假设暴露和验证标准，保护系统不要把能力浪费在错误问题上。
 
   更完整一点，它的核心职责链条是：
 
@@ -281,7 +281,7 @@
   ---
   推荐结构
 
-  Metaagent 影响其他 agent 的方式：
+  MetaAgent 影响其他 agent 的方式：
 
   1. 宪法约束 D
      ↓
@@ -300,7 +300,7 @@
 
   这个 metaagent 应该是：
 
-  Gatekeeping Socratic Metaagent
+  Gatekeeping Socratic MetaAgent
   苏格拉底式阶段门控元代理
 
   它的权力不是说：
@@ -2794,7 +2794,7 @@
 
   Agent
     ↓
-  Metaagent
+  MetaAgent
     ↓
   Meta-metaagent
     ↓
@@ -3041,11 +3041,11 @@
 
 ❯ 继续 
 
-⏺ 下面把前面内容收敛成一版 Aporia Metaagent 最终形态说明书。
+⏺ 下面把前面内容收敛成一版 Aporia MetaAgent 最终形态说明书。
   这不是实现文档，而是“设计稿 / spec 草案”：定义它是什么、为什么存在、怎么运行、如何防止自己变成问题。
 
   ---
-  Aporia Metaagent 设计稿
+  Aporia MetaAgent 设计稿
 
   1. 名称
 
@@ -3880,7 +3880,7 @@
 
 ⏺ Write(docs/superpowers/specs/2026-05-20-aporia-metaagent-design.md)
   ⎿  Wrote 603 lines to docs/superpowers/specs/2026-05-20-aporia-metaagent-design.md
-      1 # Aporia Metaagent Design                  
+      1 # Aporia MetaAgent Design                  
       2                       
       3 ## 1. Name                     
       4                        

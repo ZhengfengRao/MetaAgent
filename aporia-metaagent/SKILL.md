@@ -3,7 +3,7 @@ name: aporia-metaagent
 description: Use at the start of every Claude Code session before planning, editing, reviewing, delegating, or answering ambiguous/high-level/problem-framing tasks where the real problem, success criteria, method, scope, or completion standard may be unclear.
 ---
 
-# Aporia Metaagent
+# Aporia MetaAgent
 
 ## Overview
 
